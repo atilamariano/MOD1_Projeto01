@@ -1,7 +1,14 @@
 {
-  "devDependencies": {
-    "prettier": "2.6.2"
+  "name": "blue-turma-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aula01.js",
+  "scripts": {
+    "start": "node index"
   },
+  "keywords": [],
+  "author": "Atila Mariano",
+  "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
