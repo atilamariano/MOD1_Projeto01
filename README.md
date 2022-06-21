@@ -1,13 +1,13 @@
 # Projeto01
 
-primeiro projeto que fiz no curso Full Stack da Blue Edteck usando:
+Primeiro projeto que fiz no curso Full Stack da Blue Edteck usando:
 Linguagem: JavaScript
 Tecnologias: Node.JS, JavaScript Vanilla.
 
 
 Requisitos:
 
-  Você deve criar um programa que faça 5 perguntas para o usuário, e dependendo das respostas, exibirá um resultado diferente no final.
+ _Você deve criar um programa que faça 5 perguntas para o usuário, e dependendo das respostas, exibirá um resultado diferente no final.
 As perguntas devem ser todas de Sim ou Não, e devem ser referentes aos objetivos que tiveram que ser cumpridos durante a jornada, por
 exemplo: “Você conseguiu encontrar a Espada Mágica da Chama da Estrela do inverno?”, “Você conseguiu consertar os reatores nucleares
 do motor de dobra?”, “Você se lembrou de passar no mercado e comprar óleo?”
