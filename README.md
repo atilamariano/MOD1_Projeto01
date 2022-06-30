@@ -3,6 +3,7 @@
 Primeiro projeto que fiz no curso Full Stack da Blue Edteck usando:
 
 Linguagem: JavaScript
+
 Tecnologias: Node.JS, JavaScript Vanilla.
 
 
